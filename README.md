@@ -16,8 +16,14 @@ A few resources to get you started if this is your first Flutter project:
 - Managing states using Bloc
 
 ## Credits
-This application uses the following packages
-
+This application uses the following packages:
+  google_fonts
+  flutter_bloc
+  equatable: 
+  dio
+  font_awesome_flutter
+  intl
+  
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
