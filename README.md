@@ -2,29 +2,31 @@
 
 A Cryptocurrency history app that fetches data from an API using Bloc. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
 ## Key Features
 - fetching price from the API
 - Managing states using Bloc
 
-## Credits
+## Dependencies
 This application uses the following packages:
- - google_fonts
- - flutter_bloc
- - equatable: 
- - dio
- - font_awesome_flutter
- - intl
+ - [google_fonts](https://pub.dev/packages/google_fonts)
+ - [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+ - [equatable](https://pub.dev/packages/equatable) 
+ - [dio](https://pub.dev/packages/dio)
+ - [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter)
+ - [intl](https://pub.dev/packages/intl)
   
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to use
+To clone and run ths application, you'll need to set up [flutter](https://docs.flutter.dev/get-started/install) and [andriod studio](https://developer.android.com/studio).
+From the `IDE`:
+ # Clone this repository
+ git@github.com:funmi-cod/cryptocurrencyapp.git
+ 
+ # Get dependencies
+ run flutter pub get to add the dependencies
+ 
+ # Run the app
+ build the app by clicking `run` or entering `flutter run` in the terminal 
+
+## License
+MIT
