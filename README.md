@@ -20,7 +20,7 @@ This application uses the following packages:
 To clone and run ths application, you'll need to set up [flutter](https://docs.flutter.dev/get-started/install) and [andriod studio](https://developer.android.com/studio).
 From the `IDE`:
  # Clone this repository
- git@github.com:funmi-cod/cryptocurrencyapp.git
+ $ git@github.com:funmi-cod/cryptocurrencyapp.git
  
  # Get dependencies
  run flutter pub get to add the dependencies
